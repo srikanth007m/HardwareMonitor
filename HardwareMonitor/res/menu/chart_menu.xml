@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/chart_data_update_toggle"
+        android:checkable="false"
+        android:checked="false"
+        android:enabled="true"
+        android:title="@string/chart_data_update_toggle"
+        android:visible="true"/>
+
+</menu>

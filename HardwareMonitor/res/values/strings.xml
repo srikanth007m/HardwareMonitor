@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hardware Monitor</string>
+    <string name="stream_rate">Rate: </string>
+    <string name="view_chart">View Chart</string>
+    <string name="chart_data_update_toggle">Disable Chart Update</string>
+    <string name="set_listener">Set Listener</string>
+    <string name="remove_listener">Remove Listener</string>
+    <string name="all_listeners_add">Add All Listeners</string>
+    <string name="all_listeners_remove">Remove All Listeners</string>
+    <string name="ui_data_update_toggle">Disable Screen Update</string>
+    <string name="exit">Close App</string>
+    <string name="delay_normal">Normal</string>
+    <string name="delay_ui">UI</string>
+    <string name="delay_game">Game</string>
+    <string name="delay_fastest">Fastest</string>
+    <string name="delay_per_sec">PerSec</string>
+    <string name="delay_prompt">Desired delay between events \(in microsecond):</string>
+    <string name="delay_or">-------------OR-------------</string>
+    <string name="delay_title">Sensor Stream Rate</string>
+    <string name="delay_submit">Submit</string>
+    <string name="delay_cancel">Cancel</string>
+
+</resources>

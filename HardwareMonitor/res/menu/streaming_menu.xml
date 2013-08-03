@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/all_listeners_add"
+        android:checkable="false"
+        android:checked="false"
+        android:enabled="true"
+        android:title="@string/all_listeners_add"
+        android:titleCondensed="Add All Listeners"
+        android:visible="true"/>
+    <item
+        android:id="@+id/all_listeners_remove"
+        android:checkable="false"
+        android:checked="false"
+        android:enabled="true"
+        android:orderInCategory="1"
+        android:title="@string/all_listeners_remove"
+        android:titleCondensed="Remove All Listeners"
+        android:visible="true"/>
+    <item
+        android:id="@+id/ui_data_update_toggle"
+        android:checkable="false"
+        android:checked="false"
+        android:enabled="true"
+        android:orderInCategory="3"
+        android:title="@string/ui_data_update_toggle"
+        android:visible="true"/>
+
+</menu>
